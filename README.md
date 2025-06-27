@@ -17,7 +17,7 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Kusuma Korlam</a>
+      <a href="">Kusuma Korlam</a>
      </small>
   </p>
   <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.Tech in IT at 
@@ -137,7 +137,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/kusumakorlam/AI-Resume-Analyzer.git
+git clone https://github.com/KusumaKorlam/AI-Resume-Analyzer.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
