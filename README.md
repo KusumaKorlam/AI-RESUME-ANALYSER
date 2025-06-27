@@ -222,6 +222,6 @@ Check-out installation [Video](https://youtu.be/WFruijLC1Nc)
 
 ![Screenshot](https://github.com/KusumaKorlam/AI-resume-analyser/blob/main/screenshots/admin/Picture7.jpg)
 
-![Screenshot](https://github.com/KusumaKorlam6301/AI-resume-analyser/blob/main/screenshots/admin/Picture8.jpg)
+![Screenshot](https://github.com/KusumaKorlam/AI-resume-analyser/blob/main/screenshots/admin/Picture8.jpg)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Kusuma Korlam</a>
+### Built with 🤍 AI RESUME ANALYZER by <a"">Kusuma Korlam</a>
